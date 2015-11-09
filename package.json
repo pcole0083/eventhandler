@@ -1,0 +1,22 @@
+{
+  "name": "eventhandler",
+  "version": "0.0.1",
+  "description": "basic event handler",
+  "main": "eventhandler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pcole0083/eventhandler.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Pat Coleman <pcole0083@gmail.com> (https://github.com/pcole0083/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pcole0083/eventhandler/issues"
+  },
+  "homepage": "https://github.com/pcole0083/eventhandler#readme"
+}
